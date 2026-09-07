@@ -21,3 +21,4 @@ Milestone 20: High performance system optimization by Laziz & Saidkarim
 Milestone 21: High performance system optimization by Laziz & Saidkarim
 Milestone 22: High performance system optimization by Laziz & Saidkarim
 Milestone 23: High performance system optimization by Laziz & Saidkarim
+Milestone 24: High performance system optimization by Laziz & Saidkarim
