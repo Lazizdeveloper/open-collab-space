@@ -16,3 +16,4 @@ Milestone 15: High performance system optimization by Laziz & Saidkarim
 Milestone 16: High performance system optimization by Laziz & Saidkarim
 Milestone 17: High performance system optimization by Laziz & Saidkarim
 Milestone 18: High performance system optimization by Laziz & Saidkarim
+Milestone 19: High performance system optimization by Laziz & Saidkarim
